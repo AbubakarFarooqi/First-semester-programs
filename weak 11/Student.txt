@@ -1,0 +1,2 @@
+Name	age	school	matric marks	college name	fsc marks	Ecat marks
+1    	1  	1     	1          	1          	1       	1

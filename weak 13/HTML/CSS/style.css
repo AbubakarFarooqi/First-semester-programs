@@ -1,0 +1,19 @@
+.mybox {
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: antiquewhite;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.imagesize {
+    height: 300px;
+    width: 300px;
+}
+
+.img {
+    background-image: url('laeeq.jpg');
+    size: 50%;
+}

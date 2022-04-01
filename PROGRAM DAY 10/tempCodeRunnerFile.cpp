@@ -1,0 +1,2 @@
+
+            NewArr[count] = arr[i];
